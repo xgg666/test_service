@@ -1,0 +1,24 @@
+.main{
+   // height:1000px;
+    width:1000px;
+   // background-color:#cccccc;
+}
+.log{
+    width:100%;
+   // height:300px;
+   // background-color: #2aabd2;
+}
+.ah1{
+    width:100%;
+    height: 100px;
+    background-color: #1b6d85;
+}
+.text-blue{
+   color:#2aabd2;
+}
+.text-pink{
+    color:#FFDEAD;
+}
+.backpink{
+    background-color: #FFDEAD;
+}
